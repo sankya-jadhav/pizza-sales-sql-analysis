@@ -78,7 +78,7 @@ All SQL queries are available in:
 
 ## 📽 Project Presentation
 
-The final PPT is available in:
+The final PPT is available in: above files
 
 
 ---
